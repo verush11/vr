@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Ship low poly
+* source:	https://sketchfab.com/3d-models/alien-ship-low-poly-1d0f433eeb1b4905925caea61ac37e9a
+* author:	Joolv (https://sketchfab.com/olpojose)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Ship low poly" (https://sketchfab.com/3d-models/alien-ship-low-poly-1d0f433eeb1b4905925caea61ac37e9a) by Joolv (https://sketchfab.com/olpojose) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
